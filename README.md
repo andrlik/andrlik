@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on writing fiction, producing podcasts, and building helpful things.
+- 🌱 I’m currently learning Rust and Python for ML.
+- 📫 How to reach me: Twitter [@andrlik](https://twitter.com/andrlik).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My human suit is slipping. 😈
+
 <!--
 **andrlik/andrlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
