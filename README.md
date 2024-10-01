@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 💼 Working at [NewCompliance](https://newcompliance.com) as Senior Vice President of Product.
-- 🔭 By night I'm writing fiction, producing podcasts, and building helpful things.
+- 🔭 By night I'm writing fiction, producing podcasts, and building helpful things in :snake:.
 - 🦸🏻‍♂️ #ActuallyAutistic/ADHD and gets shit done. 
-- 🌱 I’m currently learning Rust and Python for ML.
+- 🌱 I’m currently learning Rust.
 - 📫 How to reach me: Mastodon [@daniel@andrlik.org](https://fedi.andrlik.org/@daniel), or hit me up at daniel at andrlik dot org.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My human suit is slipping. 😈
