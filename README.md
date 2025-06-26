@@ -23,4 +23,30 @@ cog.out(
 ]]] -->
 
 
+<table><tr><td valign="top">
+
+### Recent releases
+
+* [wretched-tower v0.1.0](https://github.com/andrlik/wretched-tower/releases/tag/v0.1.0) - 2025-03-21
+* [django-prune-media v0.1.1](https://github.com/andrlik/django-prune-media/releases/tag/v0.1.1) - 2024-11-01
+* [django-podcast-analyzer v0.1.0](https://github.com/andrlik/django-podcast-analyzer/releases/tag/v0.1.0) - 2024-10-11
+* [django-markov v0.1.0](https://github.com/andrlik/django-markov/releases/tag/0.1.0) - 2024-03-22
+* [pelican-feed-stylesheet v0.0.1](https://github.com/andrlik/pelican-feed-stylesheet/releases/tag/v0.0.1) - 2022-10-21
+* [django-quotes v0.1.0](https://github.com/andrlik/django-quotes/releases/tag/v0.1.0) - 2022-03-02
+
+</td><td valign="top">
+
+### Recent blog posts
+
+* [Bruce Schneier explains why the Take9 campaign wrongly blames the users](https://www.andrlik.org/dispatches/take-nine-users-not-problem/) - 2025-06-20
+* [Seedship](https://www.andrlik.org/dispatches/seedship/) - 2025-01-22
+* [Consumers Turned Off by AI](https://www.andrlik.org/dispatches/consumers-turned-off-by-ai/) - 2025-01-22
+* [TIL - Link to Any Text in a Webpage](https://www.andrlik.org/dispatches/til-link-to-any-text-in-webpage/) - 2025-01-16
+* [Diana Fernanda Belle - Broken](https://www.andrlik.org/dispatches/garbados-broken/) - 2024-12-16
+* [Charlie Stross on SFF genres](https://www.andrlik.org/dispatches/charlie-stross-sff-genre/) - 2024-12-14
+
+More on [www.andrlik.org](https://www.andrlik.org)
+
+</td></tr></table>
+    
 <!-- [[[end]]] -->
