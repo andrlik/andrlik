@@ -12,3 +12,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My human suit is slipping. 😈
 
+<!-- [[[cog
+import subprocess
+import cog
+
+list = subprocess.run(['uv', 'run', 'build_readme.py'], stdout=subprocess.PIPE)
+cog.out(
+    f"\n{list.stdout.decode('utf-8')}"
+)
+]]] -->
+
+
+<!-- [[[end]]] -->
