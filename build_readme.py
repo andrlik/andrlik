@@ -6,7 +6,6 @@
 #     "python-graphql-client",
 # ]
 # ///
-import asyncio
 from datetime import datetime
 import json
 import os
@@ -97,14 +96,11 @@ def get_blog_entries_as_md_list(max_items: int) -> str:
 if __name__ == "__main__":
     entries_list = get_blog_entries_as_md_list(max_items=MAX_ITEMS)
     releases_list = get_recent_releases_as_md_list(oauth_token=TOKEN, max_items=MAX_ITEMS)
-    table_str = f"""
-<table><tr><td valign="top">
+    content_str = f"""
 
 ### Recent releases
 
 {releases_list}
-
-</td><td valign="top">
 
 ### Recent blog posts
 
@@ -112,6 +108,5 @@ if __name__ == "__main__":
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
-</td></tr></table>
     """
-    print(table_str)
+    print(content_str)
