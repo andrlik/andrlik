@@ -1,13 +1,18 @@
+# build_readme.py
+#
+# Copyright (c) 2025 Daniel Andrlik
+# All rights reserved.
+#
+# SPDX-License-Identifier: Apache-2.0
+
 # /// script
 # requires-python = ">=3.13"
 # dependencies = [
 #     "feedparser",
-#     "httpx",
 #     "python-graphql-client",
 # ]
 # ///
 from datetime import datetime
-import json
 import os
 
 import feedparser
@@ -19,8 +24,12 @@ TOKEN = os.environ.get("ANDRLIK_TOKEN", "")
 
 MAX_ITEMS = 6
 
+
 def make_query(after_cursor: str | None = None) -> str:
-    """Generate the query to feed to Github GraphQL API"""
+    """
+    Generate the query to feed to Github GraphQL API.
+    With thanks and apologies to Simon Willison.
+    """
     return """
 query {
   viewer {
@@ -43,9 +52,7 @@ query {
     }
   }
 }
-""".replace(
-            "AFTER", f"{after_cursor}" if after_cursor else "null"
-    )
+""".replace("AFTER", f"{after_cursor}" if after_cursor else "null")
 
 
 def get_recent_releases_as_md_list(oauth_token: str, max_items: int) -> str:
@@ -55,11 +62,11 @@ def get_recent_releases_as_md_list(oauth_token: str, max_items: int) -> str:
     repo_names = set()
     has_next_page = True
     after_cursor = None
-    
+
     while has_next_page:
         data = client.execute(
             query=make_query(after_cursor),
-            headers={"Authorization": f"Bearer {oauth_token}"}
+            headers={"Authorization": f"Bearer {oauth_token}"},
         )
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if repo["releases"]["totalCount"] > 0 and repo["name"] not in repo_names:
@@ -68,34 +75,47 @@ def get_recent_releases_as_md_list(oauth_token: str, max_items: int) -> str:
                 releases.append(
                     {
                         "repo": repo["name"],
-                        "release": repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip(),
-                        "published_at": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"]
+                        "release": repo["releases"]["nodes"][0]["name"]
+                        .replace(repo["name"], "")
+                        .strip(),
+                        "published_at": repo["releases"]["nodes"][0][
+                            "publishedAt"
+                        ].split("T")[0],
+                        "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
-        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"]["hasNextPage"]
+        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
+            "hasNextPage"
+        ]
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     release_md_list = "\n".join(
-        [f"* [{r['repo']} {r['release']}]({r['url']}) - {r['published_at']}" for r in releases[:max_items]]
+        [
+            f"* [{r['repo']} {r['release']}]({r['url']}) - {r['published_at']}"
+            for r in releases[:max_items]
+        ]
     )
     return release_md_list
-        
-    
+
 
 def get_blog_entries_as_md_list(max_items: int) -> str:
     """Get the most recent entries and return as a markdown list."""
     blog = feedparser.parse("https://www.andrlik.org/index.xml")
     recent_entries = blog.entries[:max_items]
     entry_md_list = "\n".join(
-        [f"* [{e.title}]({e.link}) - {datetime.strptime(e.published, '%a, %d %b %Y %H:%M:%S %z').strftime('%Y-%m-%d')}" for e in recent_entries]
+        [
+            f"* [{e.title}]({e.link}) - {datetime.strptime(e.published, '%a, %d %b %Y %H:%M:%S %z').strftime('%Y-%m-%d')}"
+            for e in recent_entries
+        ]
     )
     return entry_md_list
 
-    
+
 if __name__ == "__main__":
     entries_list = get_blog_entries_as_md_list(max_items=MAX_ITEMS)
-    releases_list = get_recent_releases_as_md_list(oauth_token=TOKEN, max_items=MAX_ITEMS)
+    releases_list = get_recent_releases_as_md_list(
+        oauth_token=TOKEN, max_items=MAX_ITEMS
+    )
     content_str = f"""
 
 ### Recent releases
