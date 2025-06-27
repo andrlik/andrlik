@@ -1,0 +1,14 @@
+{
+  "author": {
+    "from_git": true
+  },
+  "custom_license": "SPDX-License-Identifier: Apache-2.0",
+  "include": [
+    "**/*.py"
+  ],
+  "exclude": [
+    "^\\.[^/]+",
+    "/\\.[^/]+",
+    ".tox"
+  ]
+}
