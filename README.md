@@ -23,7 +23,6 @@ cog.out(
 ]]] -->
 
 
-<table><tr><td valign="top">
 
 ### Recent releases
 
@@ -33,8 +32,6 @@ cog.out(
 * [django-markov v0.1.0](https://github.com/andrlik/django-markov/releases/tag/0.1.0) - 2024-03-22
 * [pelican-feed-stylesheet v0.0.1](https://github.com/andrlik/pelican-feed-stylesheet/releases/tag/v0.0.1) - 2022-10-21
 * [django-quotes v0.1.0](https://github.com/andrlik/django-quotes/releases/tag/v0.1.0) - 2022-03-02
-
-</td><td valign="top">
 
 ### Recent blog posts
 
@@ -47,6 +44,5 @@ cog.out(
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
-</td></tr></table>
     
 <!-- [[[end]]] -->
