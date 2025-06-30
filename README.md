@@ -35,12 +35,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Microsoft to Require AI Use](https://www.andrlik.org/dispatches/microsoft-to-require-ai-use/) - 2025-06-30
 * [TIL - Auto update a Github README](https://www.andrlik.org/dispatches/til-auto-update-profile-readme/) - 2025-06-27
 * [Bruce Schneier explains why the Take9 campaign wrongly blames the users](https://www.andrlik.org/dispatches/take-nine-users-not-problem/) - 2025-06-20
 * [Seedship](https://www.andrlik.org/dispatches/seedship/) - 2025-01-22
 * [Consumers Turned Off by AI](https://www.andrlik.org/dispatches/consumers-turned-off-by-ai/) - 2025-01-22
 * [TIL - Link to Any Text in a Webpage](https://www.andrlik.org/dispatches/til-link-to-any-text-in-webpage/) - 2025-01-16
-* [Diana Fernanda Belle - Broken](https://www.andrlik.org/dispatches/garbados-broken/) - 2024-12-16
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
