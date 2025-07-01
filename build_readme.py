@@ -32,15 +32,18 @@ def make_query(after_cursor: str | None = None) -> str:
     """
     return """
 query {
-  viewer {
-    repositories(first: 100, privacy: PUBLIC, after:AFTER) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
+  search(first: 100, type:REPOSITORY, query:"is:public owner:andrlik sort:updated", after: AFTER) {
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+    nodes {
+      __typename
+      ... on Repository {
         name
-        releases(last:1) {
+        description
+        url
+        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
           totalCount
           nodes {
             name
@@ -68,13 +71,14 @@ def get_recent_releases_as_md_list(oauth_token: str, max_items: int) -> str:
             query=make_query(after_cursor),
             headers={"Authorization": f"Bearer {oauth_token}"},
         )
-        for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+        for repo in data["data"]["search"]["nodes"]:
             if repo["releases"]["totalCount"] > 0 and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
                 releases.append(
                     {
                         "repo": repo["name"],
+                        "repo_url": repo["url"],
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
@@ -84,10 +88,8 @@ def get_recent_releases_as_md_list(oauth_token: str, max_items: int) -> str:
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
-        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
-        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
-            "hasNextPage"
-        ]
+        after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
+        has_next_page = data["data"]["search"]["pageInfo"]["hasNextPage"]
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     release_md_list = "\n".join(
         [
