@@ -35,12 +35,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [TIL - Set up a Python management script for WKD serving of my public key](https://www.andrlik.org/dispatches/til-set-up-pgp-wkd/) - 2025-08-05
 * [Notes on My Latest Server Migrations with Coolify](https://www.andrlik.org/dispatches/notes-on-my-latest-server-migrations/) - 2025-07-28
 * [How Baltimore achieved a historic drop in violent crime](https://www.andrlik.org/dispatches/baltimore-historic-drop-violent-crime/) - 2025-07-16
 * [Ed Zitron: Make Fun of Them](https://www.andrlik.org/dispatches/ed-zitron-make-fun-of-them/) - 2025-07-14
 * [Microsoft to Require AI Use](https://www.andrlik.org/dispatches/microsoft-to-require-ai-use/) - 2025-06-30
 * [TIL - Auto update a Github README](https://www.andrlik.org/dispatches/til-auto-update-profile-readme/) - 2025-06-27
-* [Bruce Schneier explains why the Take9 campaign wrongly blames the users](https://www.andrlik.org/dispatches/take-nine-users-not-problem/) - 2025-06-20
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
