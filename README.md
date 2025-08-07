@@ -35,7 +35,7 @@ cog.out(
 
 ### Recent blog posts
 
-* [Quote: On the Verge newsletter model](https://www.andrlik.org/dispatches/on-the-verge-newsletter-model/) - 2025-08-07
+* [On the Verge newsletter model](https://www.andrlik.org/dispatches/on-the-verge-newsletter-model/) - 2025-08-07
 * [TIL - Set up a Python management script for WKD serving of my public key](https://www.andrlik.org/dispatches/til-set-up-pgp-wkd/) - 2025-08-05
 * [Notes on My Latest Server Migrations with Coolify](https://www.andrlik.org/dispatches/notes-on-my-latest-server-migrations/) - 2025-07-28
 * [How Baltimore achieved a historic drop in violent crime](https://www.andrlik.org/dispatches/baltimore-historic-drop-violent-crime/) - 2025-07-16
