@@ -35,12 +35,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Prompt injections are still very much a thing](https://www.andrlik.org/dispatches/prompt-injections-are-still-a-thing/) - 2025-08-19
 * [TIL - Force absolute links in my Hugo RSS feed via a render hook](https://www.andrlik.org/dispatches/til-force-absolute-links-in-hugo-rss/) - 2025-08-12
 * [On the Verge newsletter model](https://www.andrlik.org/dispatches/on-the-verge-newsletter-model/) - 2025-08-07
 * [TIL - Set up a Python management script for WKD serving of my public key](https://www.andrlik.org/dispatches/til-set-up-pgp-wkd/) - 2025-08-05
 * [Notes on My Latest Server Migrations with Coolify](https://www.andrlik.org/dispatches/notes-on-my-latest-server-migrations/) - 2025-07-28
 * [How Baltimore achieved a historic drop in violent crime](https://www.andrlik.org/dispatches/baltimore-historic-drop-violent-crime/) - 2025-07-16
-* [Ed Zitron: Make Fun of Them](https://www.andrlik.org/dispatches/ed-zitron-make-fun-of-them/) - 2025-07-14
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
