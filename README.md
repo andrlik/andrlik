@@ -35,12 +35,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Quote: The Library at Hellebore](https://www.andrlik.org/dispatches/quote-library-at-hellebore/) - 2025-09-02
 * [OpenAI is scanning ChatGPT conversations for material to report to police](https://www.andrlik.org/dispatches/openai-scanning-chat-contents-report-police/) - 2025-08-28
 * [Bruce Schneier on AI Vulnerabilities](https://www.andrlik.org/dispatches/bruce-schneier-on-llm-vulnerabilities/) - 2025-08-27
 * [McDonald's AI bot hiring system exposed personal information of applicants due to vibe-coded default password, '123456'](https://www.andrlik.org/dispatches/mcdonalds-leaks-applicant-personal-information-due-to-ai-produced-placeholder-password/) - 2025-08-25
 * [Perplexity's Comet AI browser vulnerable to indirect prompt injection on any webpage](https://www.andrlik.org/dispatches/comet-ai-browser-vulnerable-indirect-prompt-injection/) - 2025-08-25
 * [AI poisoning tool Nightshade now available to artists](https://www.andrlik.org/dispatches/ai-poisoning-nightshade-general-availability/) - 2025-08-25
-* [Prompt injections are still very much a thing](https://www.andrlik.org/dispatches/prompt-injections-are-still-a-thing/) - 2025-08-19
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
