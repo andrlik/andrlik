@@ -24,15 +24,6 @@ cog.out(
 
 
 
-### Recent releases
-
-* [django-quotes v0.6.0](https://github.com/andrlik/django-quotes/releases/tag/v0.6.0) - 2025-07-01
-* [django-markov 0.4.1](https://github.com/andrlik/django-markov/releases/tag/0.4.1) - 2025-07-01
-* [django-prune-media v0.1.5](https://github.com/andrlik/django-prune-media/releases/tag/v0.1.5) - 2025-05-02
-* [wretched-tower v0.1.0](https://github.com/andrlik/wretched-tower/releases/tag/v0.1.0) - 2025-03-21
-* [django-podcast-analyzer v0.4.1](https://github.com/andrlik/django-podcast-analyzer/releases/tag/v0.4.1) - 2024-12-11
-* [pelican-feed-stylesheet v0.0.1](https://github.com/andrlik/pelican-feed-stylesheet/releases/tag/v0.0.1) - 2022-10-21
-
 ### Recent blog posts
 
 * [Quote: The Library at Hellebore](https://www.andrlik.org/dispatches/quote-library-at-hellebore/) - 2025-09-02
@@ -44,7 +35,7 @@ cog.out(
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
-    
+
 <!-- [[[end]]] -->
 
 [How this works](https://www.andrlik.org/dispatches/til-auto-update-profile-readme/)
