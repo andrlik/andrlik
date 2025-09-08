@@ -2,7 +2,7 @@
 
 - 💼 Working at [NewCompliance](https://newcompliance.com) as Senior Vice President of Product.
 - 🔭 By night I'm writing fiction, producing podcasts, and building helpful things in :snake:.
-- 🦸🏻‍♂️ #ActuallyAutistic/ADHD and gets shit done.
+- 🦸🏻‍♂️ #AuADHD and gets shit done.
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me:
     - Mastodon [@daniel@andrlik.org](https://fedi.andrlik.org/@daniel)
@@ -35,7 +35,7 @@ cog.out(
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
-    
+
 <!-- [[[end]]] -->
 
 [How this works](https://www.andrlik.org/dispatches/til-auto-update-profile-readme/)
