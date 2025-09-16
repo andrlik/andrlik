@@ -26,7 +26,7 @@ cog.out(
 
 ### Recent blog posts
 
-* [<em>Sneakers</em> tribute in ANSI](https://www.andrlik.org/dispatches/sneakers-ansi-ryan-castelluci/) - 2025-09-16
+* [Sneakers tribute in ANSI](https://www.andrlik.org/dispatches/sneakers-ansi-ryan-castelluci/) - 2025-09-16
 * [Quoting Annalee Newitz on the death of social media](https://www.andrlik.org/dispatches/quoting-annalee-newitz-on-death-of-social-media/) - 2025-09-15
 * [Migrating my open source repositories to Codeberg](https://www.andrlik.org/dispatches/migrating-from-github-to-codeberg/) - 2025-09-08
 * [Migrating my private projects to Forgejo](https://www.andrlik.org/dispatches/migrating-from-github-to-forgejo/) - 2025-09-08
