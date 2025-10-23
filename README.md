@@ -26,12 +26,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Quoting Erin Kissane on the state of decentralized social media](https://www.andrlik.org/dispatches/quoting-erin-kissane-on-state-of-decentralized-social/) - 2025-10-23
 * [Sneakers tribute in ANSI](https://www.andrlik.org/dispatches/sneakers-ansi-ryan-castelluci/) - 2025-09-16
 * [Quoting Annalee Newitz on the death of social media](https://www.andrlik.org/dispatches/quoting-annalee-newitz-on-death-of-social-media/) - 2025-09-15
 * [Migrating my open source repositories to Codeberg](https://www.andrlik.org/dispatches/migrating-from-github-to-codeberg/) - 2025-09-08
 * [Migrating my private projects to Forgejo](https://www.andrlik.org/dispatches/migrating-from-github-to-forgejo/) - 2025-09-08
 * [Why I'm migrating my projects away from GitHub](https://www.andrlik.org/dispatches/migrating-from-github-motivation/) - 2025-09-08
-* [Quote: The Library at Hellebore](https://www.andrlik.org/dispatches/quote-library-at-hellebore/) - 2025-09-02
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
