@@ -26,12 +26,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Quoting Alasdair Stuart on Sigourney Weaver](https://www.andrlik.org/dispatches/alasdair-stuart-on-sigourney-weaver-cabin-in-woods/) - 2025-11-02
 * [What makes Kieron Gillen want to run a game](https://www.andrlik.org/dispatches/what-makes-kieron-gillen-want-to-run-game/) - 2025-10-29
 * [Quoting Erin Kissane on the state of decentralized social media](https://www.andrlik.org/dispatches/quoting-erin-kissane-on-state-of-decentralized-social/) - 2025-10-23
 * [Sneakers tribute in ANSI](https://www.andrlik.org/dispatches/sneakers-ansi-ryan-castelluci/) - 2025-09-16
 * [Quoting Annalee Newitz on the death of social media](https://www.andrlik.org/dispatches/quoting-annalee-newitz-on-death-of-social-media/) - 2025-09-15
 * [Migrating my open source repositories to Codeberg](https://www.andrlik.org/dispatches/migrating-from-github-to-codeberg/) - 2025-09-08
-* [Migrating my private projects to Forgejo](https://www.andrlik.org/dispatches/migrating-from-github-to-forgejo/) - 2025-09-08
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
