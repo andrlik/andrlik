@@ -26,12 +26,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Quoting Kameron Hurley on Stranger Things Finale](https://www.andrlik.org/dispatches/quoting-kameron-hurley-on-stranger-things-finale/) - 2026-01-09
+* [Quoting Glyph](https://www.andrlik.org/dispatches/quoting-glyph/) - 2026-01-09
 * [Missed PAX Unplugged Again](https://www.andrlik.org/dispatches/missing-paxu-again/) - 2025-12-08
 * [Quoting Ewan Croft on Blogging](https://www.andrlik.org/dispatches/quoting-ewan-croft-on-blogging/) - 2025-11-19
 * [Vote Cast: 2025 Edition](https://www.andrlik.org/dispatches/voted-2025/) - 2025-11-04
 * [Quoting Alasdair Stuart on Sigourney Weaver](https://www.andrlik.org/dispatches/alasdair-stuart-on-sigourney-weaver-cabin-in-woods/) - 2025-11-02
-* [What makes Kieron Gillen want to run a game](https://www.andrlik.org/dispatches/what-makes-kieron-gillen-want-to-run-game/) - 2025-10-29
-* [Quoting Erin Kissane on the state of decentralized social media](https://www.andrlik.org/dispatches/quoting-erin-kissane-on-state-of-decentralized-social/) - 2025-10-23
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
