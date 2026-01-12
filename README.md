@@ -26,12 +26,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Glyph on How the Next Thing Will Not Be Big](https://www.andrlik.org/dispatches/glyph-on-how-the-next-thing-will-not-be-big/) - 2026-01-12
+* [Erin Kissane on Knowledge Erosion and the Illusion of Explanatory Depth](https://www.andrlik.org/dispatches/erin-kissane-on-knowledge-erosion-and-illusion-explanatory-depth/) - 2026-01-12
 * [Quoting Kameron Hurley on Stranger Things Finale](https://www.andrlik.org/dispatches/quoting-kameron-hurley-on-stranger-things-finale/) - 2026-01-09
 * [Quoting Glyph](https://www.andrlik.org/dispatches/quoting-glyph/) - 2026-01-09
 * [Missed PAX Unplugged Again](https://www.andrlik.org/dispatches/missing-paxu-again/) - 2025-12-08
 * [Quoting Ewan Croft on Blogging](https://www.andrlik.org/dispatches/quoting-ewan-croft-on-blogging/) - 2025-11-19
-* [Vote Cast: 2025 Edition](https://www.andrlik.org/dispatches/voted-2025/) - 2025-11-04
-* [Quoting Alasdair Stuart on Sigourney Weaver](https://www.andrlik.org/dispatches/alasdair-stuart-on-sigourney-weaver-cabin-in-woods/) - 2025-11-02
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
