@@ -26,12 +26,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Quoting Ron Perlman](https://www.andrlik.org/dispatches/quoting-ron-perlman-fallout-interview/) - 2026-01-22
 * [Zitron: This Is Worse Than the Dot Com Bubble](https://www.andrlik.org/dispatches/zitron-worse-dot-com-bubble/) - 2026-01-20
 * [My Next Adventure](https://www.andrlik.org/dispatches/next-adventure-2026/) - 2026-01-12
 * [Glyph on How the Next Thing Will Not Be Big](https://www.andrlik.org/dispatches/glyph-on-how-the-next-thing-will-not-be-big/) - 2026-01-12
 * [Erin Kissane on Knowledge Erosion and the Illusion of Explanatory Depth](https://www.andrlik.org/dispatches/erin-kissane-on-knowledge-erosion-and-illusion-explanatory-depth/) - 2026-01-12
 * [Quoting Kameron Hurley on Stranger Things Finale](https://www.andrlik.org/dispatches/quoting-kameron-hurley-on-stranger-things-finale/) - 2026-01-09
-* [Quoting Glyph](https://www.andrlik.org/dispatches/quoting-glyph/) - 2026-01-09
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
