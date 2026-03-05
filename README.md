@@ -26,12 +26,12 @@ cog.out(
 
 ### Recent blog posts
 
-* [TIL - Adding the Anthropic Test Refusal String to my Hugo Blog](http://localhost:1313/dispatches/til-add-anthropic-text-refusal-string-to-my-blog/) - 2026-03-05
-* [Quoting Charlie Stross](http://localhost:1313/dispatches/quoting-charlie-stross/) - 2026-02-25
-* [Quoting Ron Perlman](http://localhost:1313/dispatches/quoting-ron-perlman-fallout-interview/) - 2026-01-22
-* [Zitron: This Is Worse Than the Dot Com Bubble](http://localhost:1313/dispatches/zitron-worse-dot-com-bubble/) - 2026-01-20
-* [My Next Adventure](http://localhost:1313/dispatches/next-adventure-2026/) - 2026-01-12
-* [Glyph on How the Next Thing Will Not Be Big](http://localhost:1313/dispatches/glyph-on-how-the-next-thing-will-not-be-big/) - 2026-01-12
+* [Quoting Charlie Stross](https://www.andrlik.org/dispatches/quoting-charlie-stross/) - 2026-02-25
+* [Quoting Ron Perlman](https://www.andrlik.org/dispatches/quoting-ron-perlman-fallout-interview/) - 2026-01-22
+* [Zitron: This Is Worse Than the Dot Com Bubble](https://www.andrlik.org/dispatches/zitron-worse-dot-com-bubble/) - 2026-01-20
+* [My Next Adventure](https://www.andrlik.org/dispatches/next-adventure-2026/) - 2026-01-12
+* [Glyph on How the Next Thing Will Not Be Big](https://www.andrlik.org/dispatches/glyph-on-how-the-next-thing-will-not-be-big/) - 2026-01-12
+* [Erin Kissane on Knowledge Erosion and the Illusion of Explanatory Depth](https://www.andrlik.org/dispatches/erin-kissane-on-knowledge-erosion-and-illusion-explanatory-depth/) - 2026-01-12
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
