@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 Working at [NewCompliance](https://newcompliance.com) as Senior Vice President of Product.
+- 💼 Searching for new opportunities where I can help product teams succeed.
 - 🔭 By night I'm writing fiction, producing podcasts, and building helpful things in :snake:.
 - 🦸🏻‍♂️ #AuADHD and gets shit done.
 - 🌱 I’m currently learning Rust.
