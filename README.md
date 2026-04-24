@@ -26,12 +26,12 @@ cog.out(
 
 ### Recent blog posts
 
+* [Nilay Patel on the perils of software brain](https://www.andrlik.org/dispatches/nilay-patel-on-perils-software-brain/) - 2026-04-24
 * [Quoting Ethan Marcotte](https://www.andrlik.org/dispatches/quoting-ethan-marcotte/) - 2026-03-09
 * [Quoting Charlie Stross](https://www.andrlik.org/dispatches/quoting-charlie-stross/) - 2026-02-25
 * [Quoting Ron Perlman](https://www.andrlik.org/dispatches/quoting-ron-perlman-fallout-interview/) - 2026-01-22
 * [Zitron: This Is Worse Than the Dot Com Bubble](https://www.andrlik.org/dispatches/zitron-worse-dot-com-bubble/) - 2026-01-20
 * [My Next Adventure](https://www.andrlik.org/dispatches/next-adventure-2026/) - 2026-01-12
-* [Glyph on How the Next Thing Will Not Be Big](https://www.andrlik.org/dispatches/glyph-on-how-the-next-thing-will-not-be-big/) - 2026-01-12
 
 More on [www.andrlik.org](https://www.andrlik.org)
 
